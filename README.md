@@ -30,7 +30,7 @@ kubectl explain pods
 ```bash
 vim pod.yaml
 ```
-```bash
+```yaml
 apiVersion: v1
 kind: Pod
 metadata:
